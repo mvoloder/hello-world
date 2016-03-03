@@ -1,5 +1,5 @@
 <html>
-<head><title>Pocetak php-a</title></head>
+<head><title>zbroji brojeve</title></head>
 <body>
 
 <?php
