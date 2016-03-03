@@ -7,7 +7,7 @@
  $broj_1 = 10;
  $broj_2 = 20;
  $suma = $broj_2 + $broj_1;
- echo "rezultat je : $suma";
+ echo "rezultat dva broja je : $suma";
 
 ?>
 
